@@ -33,6 +33,7 @@ PS：
 - **TryHackMe**： 正在探索学习中...<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2944633" style='border:none;'></iframe>
 - **ctfshow**： 正在探索学习中...
 - 计算机三级
+- 软考低级
 
 
 ## 技能概览

@@ -24,7 +24,7 @@ PS：
 自由探索者，专注于实践驱动的学习方式，热衷于漏洞挖掘、独立开发、网文创作等领域。  
 擅长独立项目开发，善于解决实际问题，喜欢挑战未知。
 
-## 教育背景
+## 认证
 
 ### 传统
 - **学历**: 本科在读|计算机科学与技术专业
@@ -32,6 +32,7 @@ PS：
 ### 自定义
 - **TryHackMe**： 正在探索学习中...<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2944633" style='border:none;'></iframe>
 - **ctfshow**： 正在探索学习中...
+- 计算机三级
 
 
 ## 技能概览
